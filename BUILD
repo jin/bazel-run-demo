@@ -9,5 +9,5 @@ sh_binary(
 
 sh_library(
     name = "sleeper",
-    srcs = ["sleeper.sh"],
+    srcs = ["sleeper.sh", "sleeper2.sh"],
 )
